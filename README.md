@@ -9,9 +9,9 @@ This project focuses on analyzing Facebook Ads data to gain insights into ad spe
 - **Objective:** Group the data by day to analyze trends over time.
 - **Visualizations:**
   - **Daily Ad Spend in 2021:**
-    ![Daily Ad Spend 2021](images/daily_ad_spend_2021.png)
+    ![Daily Ad Spend 2021](Facebook-Ads-Campaign-Analysis/Daily Ad Spend in 2021.png)
   - **Daily ROMI in 2021:**
-    ![Daily ROMI 2021](images/daily_romi_2021.png)
+    ![Daily ROMI 2021](Facebook-Ads-Campaign-Analysis/Daily ROMI in 2021.png)
 
 ### 2. Campaign-Level Grouping and Visualization
 - **Objective:** Group the data by campaign name to compare performance across campaigns.
@@ -24,12 +24,13 @@ This project focuses on analyzing Facebook Ads data to gain insights into ad spe
 ### 3. ROMI Distribution by Campaign
 - **Objective:** Use a box plot to examine the daily distribution of ROMI for each campaign.
 - **Visualization:**
-  ![ROMI Distribution by Campaign](images/romi_distribution_boxplot.png)
+  ![ROMI Distribution by Campaign](Facebook-Ads-Campaign-Analysis/Daily ROMI Distribution for Each Campaign.png)
 
 ### 4. ROMI Value Distribution Histogram
 - **Objective:** Create a histogram to analyze the distribution of ROMI values in the dataset.
 - **Visualization:**
-  ![ROMI Distribution Histogram](images/romi_distribution_histogram.png)
+  ![ROMI Distribution Histogram](Facebook-Ads-Campaign-Analysis/ROMI Distribution.png)
+
 
 ### 5. Heat Map of Correlations
 - **Objective:** Plot a heat map to visualize correlations between numerical values in the dataset.
