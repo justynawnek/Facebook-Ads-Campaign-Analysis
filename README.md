@@ -9,27 +9,27 @@ This project focuses on analyzing Facebook Ads data to gain insights into ad spe
 - **Objective:** Group the data by day to analyze trends over time.
 - **Visualizations:**
   - **Daily Ad Spend in 2021:**
-    ![Daily Ad Spend 2021](Facebook-Ads-Campaign-Analysis/Daily Ad Spend in 2021.png)
+    ![Daily Ad Spend 2021](Daily_Ad_Spend_in_2021.png)
   - **Daily ROMI in 2021:**
-    ![Daily ROMI 2021](Facebook-Ads-Campaign-Analysis/Daily ROMI in 2021.png)
+    ![Daily ROMI 2021](Daily_ROMI_in_2021.png)
 
 ### 2. Campaign-Level Grouping and Visualization
 - **Objective:** Group the data by campaign name to compare performance across campaigns.
 - **Visualizations:**
   - **Total Ad Spend by Campaign:**
-    ![Total Ad Spend by Campaign](images/total_ad_spend_by_campaign.png)
+    ![Total Ad Spend by Campaign](Total_Ad_Spend_for_Each_Campaign.png)
   - **Total ROMI by Campaign:**
-    ![Total ROMI by Campaign](images/total_romi_by_campaign.png)
+    ![Total ROMI by Campaign](Total_ROMI_for_Each_Campaign.png)
 
 ### 3. ROMI Distribution by Campaign
 - **Objective:** Use a box plot to examine the daily distribution of ROMI for each campaign.
 - **Visualization:**
-  ![ROMI Distribution by Campaign](Facebook-Ads-Campaign-Analysis/Daily ROMI Distribution for Each Campaign.png)
+  ![ROMI Distribution by Campaign](Daily_ROMI_Distribution_for_Each_Campaign.png)
 
 ### 4. ROMI Value Distribution Histogram
 - **Objective:** Create a histogram to analyze the distribution of ROMI values in the dataset.
 - **Visualization:**
-  ![ROMI Distribution Histogram](Facebook-Ads-Campaign-Analysis/ROMI Distribution.png)
+  ![ROMI Distribution Histogram](ROMI_Distribution.png)
 
 
 ### 5. Heat Map of Correlations
@@ -39,12 +39,12 @@ This project focuses on analyzing Facebook Ads data to gain insights into ad spe
   - Lowest Correlation: [Identify lowest correlated values]
   - Correlation with "total_value": [Describe correlation]
 - **Visualization:**
-  ![Correlation Heat Map](images/correlation_heatmap.png)
+  ![Correlation Heat Map](Correlation_Heat_ap_of_Numeric_Values_in_Facebook_Ads_Data.png)
 
 ### 6. Scatter Plot with Linear Regression
 - **Objective:** Visualize the relationship between "total_spend" and "total_value" using a scatter plot with linear regression.
 - **Visualization:**
-  ![Total Spend vs. Total Value Scatter Plot](images/total_spend_vs_total_value.png)
+  ![Total Spend vs. Total Value Scatter Plot](Total_Spend_vs_Total_Value_Linear_Regression.png)
 
 ## 🚀 Results
 - **Daily Trends:** Analysis of daily ad spend and ROMI trends provided insights into the most and least effective days for ad performance.
